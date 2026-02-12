@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 762689d6178ad1944b9fe1c9475d3cf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrowPrefab: {fileID: 5854461702923494320, guid: 859c362cdd8289542a34b1a1d1faa592, type: 3}
+  - emptySlotPrefab: {fileID: 5265281543495461817, guid: 3f85a336402ec724a950d5a2fa4d1fab, type: 3}
+  - gridContainer: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - finalTimeText: {instanceID: 0}
+  - winPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
