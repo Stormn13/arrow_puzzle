@@ -836,7 +836,7 @@ MonoBehaviour:
   levels:
   - gridSize: 20
     arrowLayout:
-    - x: 13
+    - x: 14
       y: 11
       direction: 2
     - x: 13
